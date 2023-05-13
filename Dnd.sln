@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dnd.Srd.Infrastructure", "Dnd.Srd.Infrastructure\Dnd.Srd.Infrastructure.csproj", "{47680102-3B35-4AE8-9585-A657126CFCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srd.MigrationManager", "Srd.MigrationManager\Srd.MigrationManager.csproj", "{8B36BA60-2EEF-42B3-9E68-7A38BB9DF91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dnd.Srd.Data", "Dnd.Srd.Data\Dnd.Srd.Data.csproj", "{25AEAE4B-1131-4688-84C4-71BDA70442DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47680102-3B35-4AE8-9585-A657126CFCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47680102-3B35-4AE8-9585-A657126CFCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47680102-3B35-4AE8-9585-A657126CFCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47680102-3B35-4AE8-9585-A657126CFCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B36BA60-2EEF-42B3-9E68-7A38BB9DF91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B36BA60-2EEF-42B3-9E68-7A38BB9DF91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B36BA60-2EEF-42B3-9E68-7A38BB9DF91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B36BA60-2EEF-42B3-9E68-7A38BB9DF91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AEAE4B-1131-4688-84C4-71BDA70442DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AEAE4B-1131-4688-84C4-71BDA70442DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AEAE4B-1131-4688-84C4-71BDA70442DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AEAE4B-1131-4688-84C4-71BDA70442DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
